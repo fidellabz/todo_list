@@ -35,7 +35,7 @@ The ToDo List App is built using the following technologies:
 
 ## Screenshots
 
-![ToDo List]('assets\todo-list.png')
+![ToDo List]('https://fidellabz.github.io/assets/todo-list.png')
 
 ## Contributing
 
