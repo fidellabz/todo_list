@@ -33,10 +33,6 @@ The ToDo List App is built using the following technologies:
 
 3. Start managing your tasks with the ToDo List.
 
-## Screenshots
-
-![ToDo List]('https://fidellabz.github.io/assets/todo-list.png')
-
 ## Contributing
 
 If you'd like to contribute to the development of this ToDo List, feel free to open issues, submit pull requests, or provide feedback.
