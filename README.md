@@ -35,7 +35,7 @@ The ToDo List App is built using the following technologies:
 
 ## Screenshots
 
-![ToDo List](path/to/todo-list-screenshot.png)
+![ToDo List]('assets\todo-list.png')
 
 ## Contributing
 
