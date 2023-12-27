@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file for a ToDo List application. Feel free to customize it according to your specific ToDo List implementation.
-
-```markdown
 # ToDo List App
 
 ## Overview
